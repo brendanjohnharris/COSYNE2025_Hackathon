@@ -1,0 +1,16 @@
+name: hack
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - seaborn
+  - ipykernel
+  - ipywidgets
+  - pandas
+  - scikit-learn
+  - tqdm
+- pip:
+  - pynapple
+  - nemos
+  - jaxopt
