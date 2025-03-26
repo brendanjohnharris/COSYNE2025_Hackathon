@@ -2,3 +2,4 @@ nemos/
 pynapple/
 .conda/
 *.prof
+*.nwb
