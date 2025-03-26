@@ -1,3 +1,4 @@
 nemos/
 pynapple/
 .conda/
+*.prof
